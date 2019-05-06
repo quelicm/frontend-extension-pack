@@ -1,0 +1,29 @@
+{
+    "name": "frontend-extension-pack",
+    "displayName": "Frontend extension pack",
+    "description": "Set of extensions to speed up frontend development",
+    "version": "0.0.1",
+    "keywords": ["frontend", "git", "linter", "javascript", "eslint", "stylelint"],
+    "galleryBanner": {
+        "color": "#333333",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint", 
+        "EditorConfig.EditorConfig", 
+        "shinnn.stylelint", 
+        "PKief.material-icon-theme",
+        "eamodio.gitlens",
+        "huizhou.githd",
+        "donjayamanne.githistory",
+        "pflannery.vscode-versionlens"
+    ],
+    "publisher": "Queli Coto"
+}
