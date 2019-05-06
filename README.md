@@ -1,16 +1,31 @@
-# README
+# Frontend Extension Pack
 
-## This is the README for your extension pack "frontend-extension-pack"
+This extension pack adds features for frontend development.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Note
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+**Please read the [Recommended Settings](#Recommended-Settings) section to enable all features.**
 
-## For more information
+## Recommended-Settings
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Setup VS Code
 
-**Enjoy!**
+* TODO
+
+## Extensions Included in this pack
+
+- Gitlens - [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- Version Lens - [https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+- Git History - [https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- Git History Diff - [https://marketplace.visualstudio.com/items?itemName=huizhou.githd](https://marketplace.visualstudio.com/items?itemName=huizhou.githd)
+- EditorConfig - [https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- Material Icon Theme - [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- Eslint - [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- Stylelint - [https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+- Prettier - [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## Credits
+
+All credits goes to original authors of the above mentioned extensions.
+
+**Happy Coding!**

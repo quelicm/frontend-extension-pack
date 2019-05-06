@@ -25,5 +25,8 @@
         "donjayamanne.githistory",
         "pflannery.vscode-versionlens"
     ],
-    "publisher": "Queli Coto"
+    "repository": {
+        "url": "https://github.com/nothnk/frontend-extension-pack"
+      },
+    "publisher": "quelicm"
 }
