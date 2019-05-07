@@ -25,6 +25,7 @@
         "donjayamanne.githistory",
         "pflannery.vscode-versionlens"
     ],
+    "icon": "fep-icon.png",
     "repository": {
         "url": "https://github.com/nothnk/frontend-extension-pack"
       },

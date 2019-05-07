@@ -3,3 +3,4 @@
 .gitignore
 vsc-extension-quickstart.md
 frontend-extension-pack-*.vsix
+logo/**
