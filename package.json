@@ -2,7 +2,7 @@
     "name": "frontend-extension-pack",
     "displayName": "Frontend extension pack",
     "description": "Set of extensions to speed up frontend development",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": ["frontend", "git", "linter", "javascript", "eslint", "stylelint"],
     "galleryBanner": {
         "color": "#333333",
