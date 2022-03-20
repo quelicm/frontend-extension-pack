@@ -2,7 +2,7 @@
     "name": "frontend-extension-pack",
     "displayName": "Frontend extension pack",
     "description": "Set of extensions to speed up frontend development",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "keywords": ["frontend", "git", "linter", "javascript", "eslint", "stylelint"],
     "galleryBanner": {
         "color": "#333333",
@@ -17,12 +17,18 @@
     "extensionPack": [ 
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint", 
+        "stylelint.vscode-stylelint", 
         "EditorConfig.EditorConfig", 
-        "shinnn.stylelint", 
+
         "PKief.material-icon-theme",
+        "wmaurer.change-case",
+        "artdiniz.quitcontrol-vscode",
+        "saekiraku.pin-up",
+        
+        "mhutchie.git-graph",
         "eamodio.gitlens",
         "huizhou.githd",
-        "donjayamanne.githistory",
+
         "pflannery.vscode-versionlens"
     ],
     "icon": "fep-icon.png",

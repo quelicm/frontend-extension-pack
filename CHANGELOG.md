@@ -4,6 +4,10 @@ All notable changes to the "frontend-extension-pack" extension pack will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.3
+
+* Added new extensions
+* Added recommended settings
 
 ## 0.0.2
 
